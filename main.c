@@ -5,6 +5,6 @@ int Policz(int a, int b) {
 
 int main() {
     printf("Hello, World!\n");
-    printf("W drugim branchu 2*3 = %d\n", Policz(2, 3));
+    printf("W pierwszym branchu 2*3 = %d\n", Policz(2, 3));
     return 0;
 }
